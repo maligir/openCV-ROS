@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/u/maligir/FRI/openCV-ROS/opencv_hw_template/ColorFilter.cpp
+ColorFilter.h
+/u/maligir/FRI/openCV-ROS/opencv_hw_template/ColorFilter.h
+
+/u/maligir/FRI/openCV-ROS/opencv_hw_template/ColorFilter.h
+opencv2/opencv.hpp
+-
+string
+-
+vector
+-
+
+/u/maligir/FRI/openCV-ROS/opencv_hw_template/ReadAVI.cpp
+ReadAVI.h
+/u/maligir/FRI/openCV-ROS/opencv_hw_template/ReadAVI.h
+ColorFilter.h
+/u/maligir/FRI/openCV-ROS/opencv_hw_template/ColorFilter.h
+
+/u/maligir/FRI/openCV-ROS/opencv_hw_template/ReadAVI.h
+opencv2/opencv.hpp
+-
+
+/u/maligir/FRI/openCV-ROS/opencv_hw_template/cvexample.cpp
+ColorFilter.h
+/u/maligir/FRI/openCV-ROS/opencv_hw_template/ColorFilter.h
+ReadAVI.h
+/u/maligir/FRI/openCV-ROS/opencv_hw_template/ReadAVI.h
+

@@ -1,0 +1,3 @@
+/u/maligir/FRI/openCV-ROS/opencv_hw_template/build/CMakeFiles/rebuild_cache.dir
+/u/maligir/FRI/openCV-ROS/opencv_hw_template/build/CMakeFiles/cvexample.dir
+/u/maligir/FRI/openCV-ROS/opencv_hw_template/build/CMakeFiles/edit_cache.dir

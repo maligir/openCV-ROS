@@ -13,8 +13,9 @@ void ReadAVI::processFile() {
 }
 
 void ReadAVI::getNextFrame() {
+    _cap >> _frame;
 }
 
 bool ReadAVI::nextFrameEmpty() {
-    return true;
+    return _frame.empty();
 }
